@@ -1,0 +1,47 @@
+<div class="actions columns large-2 medium-3">
+    <h3><?= __('Actions') ?></h3>
+    <ul class="side-nav">
+        <li><?= $this->Html->link(__('New Biscuit Flavor'), ['action' => 'add']) ?></li>
+        <li><?= $this->Html->link(__('List Biscuits'), ['controller' => 'Biscuits', 'action' => 'index']) ?></li>
+        <li><?= $this->Html->link(__('New Biscuit'), ['controller' => 'Biscuits', 'action' => 'add']) ?></li>
+        <li><?= $this->Html->link(__('List Flavors'), ['controller' => 'Flavors', 'action' => 'index']) ?></li>
+        <li><?= $this->Html->link(__('New Flavor'), ['controller' => 'Flavors', 'action' => 'add']) ?></li>
+    </ul>
+</div>
+<div class="biscuitFlavors index large-10 medium-9 columns">
+    <table cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <th><?= $this->Paginator->sort('biscuit_id') ?></th>
+            <th><?= $this->Paginator->sort('flavor_id') ?></th>
+            <th class="actions"><?= __('Actions') ?></th>
+        </tr>
+    </thead>
+    <tbody>
+    <?php foreach ($biscuitFlavors as $biscuitFlavor): ?>
+        <tr>
+            <td>
+                <?= $biscuitFlavor->has('biscuit') ? $this->Html->link($biscuitFlavor->biscuit->name, ['controller' => 'Biscuits', 'action' => 'view', $biscuitFlavor->biscuit->id]) : '' ?>
+            </td>
+            <td>
+                <?= $biscuitFlavor->has('flavor') ? $this->Html->link($biscuitFlavor->flavor->name, ['controller' => 'Flavors', 'action' => 'view', $biscuitFlavor->flavor->id]) : '' ?>
+            </td>
+            <td class="actions">
+                <?= $this->Html->link(__('View'), ['action' => 'view', $biscuitFlavor->biscuit_id]) ?>
+                <?= $this->Html->link(__('Edit'), ['action' => 'edit', $biscuitFlavor->biscuit_id]) ?>
+                <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $biscuitFlavor->biscuit_id], ['confirm' => __('Are you sure you want to delete # {0}?', $biscuitFlavor->biscuit_id)]) ?>
+            </td>
+        </tr>
+
+    <?php endforeach; ?>
+    </tbody>
+    </table>
+    <div class="paginator">
+        <ul class="pagination">
+            <?= $this->Paginator->prev('< ' . __('previous')) ?>
+            <?= $this->Paginator->numbers() ?>
+            <?= $this->Paginator->next(__('next') . ' >') ?>
+        </ul>
+        <p><?= $this->Paginator->counter() ?></p>
+    </div>
+</div>

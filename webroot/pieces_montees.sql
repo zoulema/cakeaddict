@@ -1,0 +1,12 @@
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (1,"GENOISE","{2}","{6,8}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (2,"GENOISE AU CHOCOLAT","{8}","{5, 6, 7}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (3,"QUATRE QUARTS","{2}","{1, 4, 5, 7}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (4,"QUATRE QUARTS AU CHOCOLAT","{8}","{1, 4, 5, 7'}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (5,"BISCUIT JOCONDE","{1}","{6, 8}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (6,"BISCUIT DE SAVOIE","{2}","{6, 8}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (7,"DAQUOISE","{1}","{6, 8}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (8,"BISCUIT SACHER","{8,1}","{4, 5, 7}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (9,"BISCUIT ROULE","{2}","{1, 4, 6, 7, 8, 9,10}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (10,"QUATRE QUARTS AU COCO","{10}","{5, 6, 7, 8, 9'}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (11,"QUATRE QUARTS AU SPECULOOS","{4}","{4, 5, 6, 7, 8}",0);
+INSERT INTO biscuits(id,name,saveur,entremet,prix) VALUES (12,"BISCUIT AU CARAMEL","{4}","{5, 7}",0);
