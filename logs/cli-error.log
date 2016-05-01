@@ -62,3 +62,24 @@ Stack Trace:
 #16 {main}
 
 
+2016-05-01 21:22:31 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cakedb.payments' doesn't exist
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'payments', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(65): Cake\Database\Schema\Collection->describe('payments', Array)
+#2 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Table.php(426): Cake\Database\Schema\CachedCollection->describe('payments')
+#3 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Table.php(502): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(192): Cake\ORM\Table->primaryKey()
+#5 C:\xampp\htdocs\cakeaddict\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(110): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\cakeaddict\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('Payments')
+#7 C:\xampp\htdocs\cakeaddict\vendor\cakephp\bake\src\Shell\BakeShell.php(250): Bake\Shell\Task\ModelTask->main('Payments')
+#8 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(52): Bake\Shell\BakeShell->Bake\Shell\{closure}('payments', 0)
+#9 C:\xampp\htdocs\cakeaddict\vendor\cakephp\bake\src\Shell\BakeShell.php(253): Cake\Collection\Collection->each(Object(Closure))
+#10 [internal function]: Bake\Shell\BakeShell->all('payments')
+#11 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#12 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#13 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#14 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#15 C:\xampp\htdocs\cakeaddict\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#16 {main}
+
+

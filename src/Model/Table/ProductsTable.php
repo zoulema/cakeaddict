@@ -10,8 +10,6 @@ use Cake\Validation\Validator;
 /**
  * Products Model
  *
- * @property \Cake\ORM\Association\BelongsTo $Flavors
- * @property \Cake\ORM\Association\BelongsTo $Categories
  * @property \Cake\ORM\Association\HasMany $Orders
  */
 class ProductsTable extends Table
@@ -33,17 +31,13 @@ class ProductsTable extends Table
 
         $this->addBehavior('Timestamp');
 
-        $this->belongsTo('Flavors', [
-            'foreignKey' => 'flavor_id',
-            'joinType' => 'INNER'
-        ]);
+        $this->hasMany('Orders', [
+            'foreignKey' => 'product_id'
+        ]); 
         $this->hasMany('CategoryProducts', [
             'foreignKey' => 'product_id'
         ]);
         $this->hasMany('FlavorProducts', [
-            'foreignKey' => 'product_id'
-        ]);
-        $this->hasMany('Orders', [
             'foreignKey' => 'product_id'
         ]);
     }
@@ -65,11 +59,16 @@ class ProductsTable extends Table
 
         $validator
             ->requirePresence('name', 'create')
-            ->notEmpty('name');
+            ->notEmpty('name')
+            ->add('name', 'unique', ['rule' => 'validateUnique', 'provider' => 'table']);
 
         $validator
             ->requirePresence('description', 'create')
             ->notEmpty('description');
+
+        $validator
+            ->requirePresence('flavor', 'create')
+            ->notEmpty('flavor');
 
         $validator
             ->requirePresence('shape', 'create')
@@ -88,26 +87,7 @@ class ProductsTable extends Table
         $validator
             ->add('temps_u', 'valid', ['rule' => 'numeric'])
             ->requirePresence('temps_u', 'create')
-            ->notEmpty('temps_u');
-
-        $validator
-            ->requirePresence('remarque', 'create')
-            ->notEmpty('remarque');
-
+            ->notEmpty('temps_u'); 
         return $validator;
-    }
-
-    /**
-     * Returns a rules checker object that will be used for validating
-     * application integrity.
-     *
-     * @param \Cake\ORM\RulesChecker $rules The rules object to be modified.
-     * @return \Cake\ORM\RulesChecker
-     */
-    public function buildRules(RulesChecker $rules)
-    {
-        $rules->add($rules->existsIn(['flavor_id'], 'Flavors'));
-        $rules->add($rules->existsIn(['category_id'], 'CategoryProducts'));
-        return $rules;
     }
 }

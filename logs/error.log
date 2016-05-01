@@ -10462,3 +10462,1161 @@ Stack Trace:
 #2 {main}
 
 
+2016-04-30 10:53:59 Warning: Warning (2): mysqli_escape_string() expects exactly 2 parameters, 1 given in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 56]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+mysqli_escape_string - [internal], line ??
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 56
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-30 10:53:59 Warning: Warning (2): mysqli_escape_string() expects exactly 2 parameters, 1 given in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 57]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+mysqli_escape_string - [internal], line ??
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 57
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-30 10:56:27 Error: Fatal Error (1): Call to a member function primaryKey() on null in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Rule\ExistsIn.php, line 95]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-04-30 10:56:28 Error: [Cake\Error\FatalErrorException] Call to a member function primaryKey() on null
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 95)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-04-30 10:56:51 Error: Fatal Error (1): Call to a member function primaryKey() on null in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Rule\ExistsIn.php, line 95]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-04-30 10:56:52 Error: [Cake\Error\FatalErrorException] Call to a member function primaryKey() on null
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 95)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-04-30 20:04:28 Error: Fatal Error (1): Call to a member function primaryKey() on null in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Rule\ExistsIn.php, line 95]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-04-30 20:04:30 Error: [Cake\Error\FatalErrorException] Call to a member function primaryKey() on null
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 95)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 07:55:50 Warning: Warning (2): mysql_escape_string() expects parameter 1 to be string, array given in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+mysql_escape_string - [internal], line ??
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 66
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 07:56:17 Warning: Warning (2): mysql_escape_string() expects parameter 1 to be string, array given in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+mysql_escape_string - [internal], line ??
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 66
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 07:57:11 Warning: Warning (2): mysql_escape_string() expects parameter 1 to be string, array given in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+mysql_escape_string - [internal], line ??
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 66
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 07:58:10 Error: Fatal Error (1): Call to undefined function App\Controller\convertToJsonString() in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 07:58:11 Error: [Cake\Error\FatalErrorException] Call to undefined function App\Controller\convertToJsonString()
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 66)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 07:58:58 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 63]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 07:58:59 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ';'
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 63)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:00:06 Error: Fatal Error (1): Call to a member function primaryKey() on null in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Rule\ExistsIn.php, line 95]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:00:07 Error: [Cake\Error\FatalErrorException] Call to a member function primaryKey() on null
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 95)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:05:36 Error: Fatal Error (1): Call to a member function primaryKey() on null in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Rule\ExistsIn.php, line 95]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:05:37 Error: [Cake\Error\FatalErrorException] Call to a member function primaryKey() on null
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 95)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:18:14 Error: [RuntimeException] Table "App\Model\Table\ProductsTable" is not associated with "Flavors"
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php(86): Cake\ORM\Table->__get('Flavors')
+#1 [internal function]: App\Controller\ProductsController->add()
+#2 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(412): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProductsController))
+#5 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-01 08:18:40 Error: [RuntimeException] Table "App\Model\Table\ProductsTable" is not associated with "Flavors"
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php(86): Cake\ORM\Table->__get('Flavors')
+#1 [internal function]: App\Controller\ProductsController->add()
+#2 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(412): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProductsController))
+#5 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-01 08:20:05 Error: [RuntimeException] Table "App\Model\Table\ProductsTable" is not associated with "Flavors"
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php(86): Cake\ORM\Table->__get('Flavors')
+#1 [internal function]: App\Controller\ProductsController->add()
+#2 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(412): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProductsController))
+#5 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-01 08:20:40 Error: [RuntimeException] Table "App\Model\Table\ProductsTable" is not associated with "Flavors"
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php(86): Cake\ORM\Table->__get('Flavors')
+#1 [internal function]: App\Controller\ProductsController->add()
+#2 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(412): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProductsController))
+#5 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-01 08:21:33 Error: [RuntimeException] Table "App\Model\Table\ProductsTable" is not associated with "FlavorProducts"
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php(86): Cake\ORM\Table->__get('FlavorProducts')
+#1 [internal function]: App\Controller\ProductsController->add()
+#2 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(412): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProductsController))
+#5 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-01 08:22:41 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 87]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:22:42 Error: [Cake\Error\FatalErrorException] Call to a member function find() on null
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 87)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:24:52 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 92]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:24:53 Error: [Cake\Error\FatalErrorException] Call to a member function find() on null
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 92)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:26:14 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 92]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:26:15 Error: [Cake\Error\FatalErrorException] Call to a member function find() on null
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 92)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:26:35 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 92]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:26:36 Error: [Cake\Error\FatalErrorException] Call to a member function find() on null
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 92)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:28:22 Error: Fatal Error (1): Class 'App\Controller\FlavorProducts' not found in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 22]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:28:24 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\FlavorProducts' not found
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 22)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:37:07 Error: Fatal Error (1): Class 'App\Controller\Flavors' not found in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 90]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:37:08 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Flavors' not found
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 90)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:37:46 Error: Fatal Error (1): Class 'App\Controller\Flavors' not found in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 90]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:37:47 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Flavors' not found
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 90)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:38:13 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\cakeaddict\src\Controller\FlavorsController.php, line 108]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:38:14 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '}'
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 108)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:39:56 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\cakeaddict\src\Controller\FlavorsController.php, line 108]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:39:57 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '}'
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 108)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:40:53 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\cakeaddict\src\Controller\FlavorsController.php, line 108]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:40:54 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '}'
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 108)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:42:18 Error: Fatal Error (1): Call to undefined method App\Controller\FlavorsController::find() in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 91]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:42:19 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Controller\FlavorsController::find()
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:43:22 Error: Fatal Error (4): syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in [C:\xampp\htdocs\cakeaddict\src\Controller\FlavorsController.php, line 106]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:43:23 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING)
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 106)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:47:13 Error: Fatal Error (1): Call to undefined method App\Controller\FlavorsController::find() in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 91]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:47:14 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Controller\FlavorsController::find()
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:48:40 Warning: Warning (2): move_uploaded_file(./products/20150811_124745.jpg): failed to open stream: No such file or directory in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 81]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+move_uploaded_file - [internal], line ??
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 81
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 08:48:40 Warning: Warning (2): move_uploaded_file() [<a href='http://php.net/function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move 'C:\xampp\tmp\phpD8A7.tmp' to './products/20150811_124745.jpg' in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 81]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+move_uploaded_file - [internal], line ??
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 81
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 08:50:22 Error: Fatal Error (4): syntax error, unexpected 'mkdir' (T_STRING) in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:50:23 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'mkdir' (T_STRING)
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 80)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:50:40 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 08:50:42 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ')'
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 80)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 08:50:57 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 08:52:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 08:52:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 08:55:37 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 08:59:48 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "array (
+  'action' => 'index',
+  'controller' => 'Products',
+  'plugin' => '',
+  '_ext' => NULL,
+)" could not be found.
+Exception Attributes: array (
+  'url' => 'array (
+  \'action\' => \'index\',
+  \'controller\' => \'Products\',
+  \'plugin\' => \'\',
+  \'_ext\' => NULL,
+)',
+  'context' => 
+  array (
+    '_base' => '/cakeaddict',
+    '_port' => '80',
+    '_scheme' => 'http',
+    '_host' => 'localhost',
+    'params' => 
+    array (
+      'plugin' => NULL,
+      'controller' => 'Products',
+      'action' => 'add',
+      '_ext' => NULL,
+      'pass' => 
+      array (
+      ),
+    ),
+  ),
+)
+Request URL: /cakeaddict/products/add
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Router.php(619): Cake\Routing\RouteCollection->match(Array, Array)
+#1 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(529): Cake\Routing\Router::url(Array, true)
+#2 C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php(85): Cake\Controller\Controller->redirect(Array)
+#3 [internal function]: App\Controller\ProductsController->add()
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(412): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProductsController))
+#7 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-05-01 09:01:23 Warning: Warning (2): Missing argument 1 for Cake\Controller\Controller::redirect(), called in C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php on line 85 and defined in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php, line 511]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::redirect() - CORE\src\Controller\Controller.php, line 511
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 85
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:04:49 Error: [InvalidArgumentException] Products is not associated with CategoryProducts
+Request URL: /cakeaddict/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(233): Cake\ORM\EagerLoader->_normalizeContain(Object(App\Model\Table\ProductsTable), 'CategoryProduct...', Array, Array)
+#1 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(341): Cake\ORM\EagerLoader->normalized(Object(App\Model\Table\ProductsTable))
+#2 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(320): Cake\ORM\EagerLoader->attachableAssociations(Object(App\Model\Table\ProductsTable))
+#3 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Query.php(695): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(App\Model\Table\ProductsTable), true)
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Query.php(651): Cake\ORM\Query->_transformQuery()
+#5 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(120): Cake\ORM\Query->sql()
+#6 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Database\Connection.php(220): Cake\Database\Driver\Mysql->prepare(Object(Cake\ORM\Query))
+#7 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Database\Connection.php(272): Cake\Database\Connection->prepare(Object(Cake\ORM\Query))
+#8 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Database\Query.php(176): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#9 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Query.php(670): Cake\Database\Query->execute()
+#10 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(218): Cake\ORM\Query->_execute()
+#11 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Query.php(621): Cake\ORM\Query->_all()
+#12 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php(172): Cake\ORM\Query->all()
+#13 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(642): Cake\Controller\Component\PaginatorComponent->paginate(Object(App\Model\Table\ProductsTable), Array)
+#14 C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php(27): Cake\Controller\Controller->paginate(Object(App\Model\Table\ProductsTable))
+#15 [internal function]: App\Controller\ProductsController->index()
+#16 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(412): call_user_func_array(Array, Array)
+#17 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#18 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProductsController))
+#19 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#20 {main}
+
+
+2016-05-01 09:05:48 Error: [InvalidArgumentException] Products is not associated with FlavorProducts
+Request URL: /cakeaddict/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(233): Cake\ORM\EagerLoader->_normalizeContain(Object(App\Model\Table\ProductsTable), 'FlavorProducts', Array, Array)
+#1 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(341): Cake\ORM\EagerLoader->normalized(Object(App\Model\Table\ProductsTable))
+#2 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(320): Cake\ORM\EagerLoader->attachableAssociations(Object(App\Model\Table\ProductsTable))
+#3 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Query.php(695): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(App\Model\Table\ProductsTable), true)
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Query.php(651): Cake\ORM\Query->_transformQuery()
+#5 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(120): Cake\ORM\Query->sql()
+#6 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Database\Connection.php(220): Cake\Database\Driver\Mysql->prepare(Object(Cake\ORM\Query))
+#7 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Database\Connection.php(272): Cake\Database\Connection->prepare(Object(Cake\ORM\Query))
+#8 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Database\Query.php(176): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#9 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Query.php(670): Cake\Database\Query->execute()
+#10 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(218): Cake\ORM\Query->_execute()
+#11 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\ORM\Query.php(621): Cake\ORM\Query->_all()
+#12 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php(172): Cake\ORM\Query->all()
+#13 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(642): Cake\Controller\Component\PaginatorComponent->paginate(Object(App\Model\Table\ProductsTable), Array)
+#14 C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php(27): Cake\Controller\Controller->paginate(Object(App\Model\Table\ProductsTable))
+#15 [internal function]: App\Controller\ProductsController->index()
+#16 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(412): call_user_func_array(Array, Array)
+#17 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#18 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProductsController))
+#19 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#20 {main}
+
+
+2016-05-01 09:07:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=2
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 09:07:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=2
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 09:07:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=2
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 09:08:46 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "category_products" with primary key ['1']
+Request URL: /cakeaddict/category_products/view/1
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\src\Controller\CategoryProductsController.php(39): Cake\ORM\Table->get('1', Array)
+#1 [internal function]: App\Controller\CategoryProductsController->view('1')
+#2 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(412): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\CategoryProductsController))
+#5 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-01 09:09:51 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "category_products" with primary key ['1']
+Request URL: /cakeaddict/category_products/view/1
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\src\Controller\CategoryProductsController.php(39): Cake\ORM\Table->get('1', Array)
+#1 [internal function]: App\Controller\CategoryProductsController->view('1')
+#2 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php(412): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\CategoryProductsController))
+#5 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-01 09:16:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=2
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 15:07:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=2
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 15:09:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=3
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 15:09:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=3
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 15:12:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=3
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 15:33:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=5
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 20:48:33 Error: Fatal Error (1): Call to undefined method App\Controller\FlavorsController::find() in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 120]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2016-05-01 20:48:34 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Controller\FlavorsController::find()
+Request URL: /cakeaddict/products/edit/1
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 120)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-01 20:52:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 20:53:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class . could not be found.
+Exception Attributes: array (
+  'class' => '.',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/./
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 20:53:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class . could not be found.
+Exception Attributes: array (
+  'class' => '.',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/./
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 20:53:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class . could not be found.
+Exception Attributes: array (
+  'class' => '.',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/./
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 20:55:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:03:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:05:14 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:10:27 Warning: Warning (2): Illegal string offset 'name' in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 113]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 113
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:10:27 Warning: Warning (2): Illegal string offset 'tmp_name' in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 122
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:10:27 Warning: Warning (2): Illegal string offset 'name' in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 122
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:14:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:18:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:19:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:22:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Payments could not be found.
+Exception Attributes: array (
+  'class' => 'Payments',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/payments
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:24:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=2
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:24:57 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:25:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=2
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:25:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=3
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:29:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Img could not be found.
+Exception Attributes: array (
+  'class' => 'Img',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/img/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:29:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:29:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Img could not be found.
+Exception Attributes: array (
+  'class' => 'Img',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/img/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:33:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Prod could not be found.
+Exception Attributes: array (
+  'class' => 'Prod',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/prod/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:34:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Prod could not be found.
+Exception Attributes: array (
+  'class' => 'Prod',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/prod/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:34:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Prod could not be found.
+Exception Attributes: array (
+  'class' => 'Prod',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/prod/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:36:49 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Prod could not be found.
+Exception Attributes: array (
+  'class' => 'Prod',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/prod/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:38:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/webroot/products/?page=2
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-01 21:38:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Prod could not be found.
+Exception Attributes: array (
+  'class' => 'Prod',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakeaddict/prod/
+Stack Trace:
+#0 C:\xampp\htdocs\cakeaddict\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

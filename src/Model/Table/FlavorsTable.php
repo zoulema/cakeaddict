@@ -11,8 +11,8 @@ use Cake\Validation\Validator;
  * Flavors Model
  *
  * @property \Cake\ORM\Association\HasMany $FlavorProducts
+ * @property \Cake\ORM\Association\HasMany $Orderdetails
  * @property \Cake\ORM\Association\HasMany $Orders
- * @property \Cake\ORM\Association\HasMany $Products
  */
 class FlavorsTable extends Table
 {
@@ -34,10 +34,10 @@ class FlavorsTable extends Table
         $this->hasMany('FlavorProducts', [
             'foreignKey' => 'flavor_id'
         ]);
-        $this->hasMany('Orders', [
-            'foreignKey' => 'flavor_id'
+        $this->hasMany('Orderdetails', [
+            'foreignKey' => 'flavor_id' 
         ]);
-        $this->hasMany('Products', [
+        $this->hasMany('Orders', [
             'foreignKey' => 'flavor_id'
         ]);
     }

@@ -18,13 +18,11 @@ class FlavorsTableTest extends TestCase
      */
     public $fixtures = [
         'app.flavors',
+        'app.flavor_products',
+        'app.products',
         'app.orders',
         'app.costumers',
         'app.messages',
-        'app.products',
-        'app.category_products',
-        'app.categories',
-        'app.flavor_products',
         'app.deliveries'
     ];
 

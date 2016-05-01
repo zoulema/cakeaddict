@@ -154,7 +154,7 @@ class PaginatorComponent extends Component
             $object = $query->repository();
         }
 
-        $alias = $object->alias();
+        $alias   = $object->alias();
         $options = $this->mergeOptions($alias, $settings);
         $options = $this->validateSort($object, $options);
         $options = $this->checkLimit($options);

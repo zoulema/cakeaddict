@@ -102,4 +102,9 @@ class FlavorsController extends AppController
         }
         return $this->redirect(['action' => 'index']);
     }
+
+    public function lister(){
+        return $this->Flavors->find('list');
+    } 
+
 }

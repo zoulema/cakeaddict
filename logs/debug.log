@@ -41925,3 +41925,1362 @@ Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
 
 
 
+2016-04-30 10:24:39 Notice: Notice (8): Undefined variable: _FILE in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-30 10:25:31 Notice: Notice (8): Undefined variable: _FILE in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-30 10:26:30 Notice: Notice (8): Undefined variable: _FILE in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-30 10:26:58 Notice: Notice (8): Undefined variable: _FILE in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-30 10:28:38 Notice: Notice (8): Undefined variable: _FILE in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-30 10:30:04 Notice: Notice (8): Undefined variable: _FILE in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-30 10:49:24 Notice: Notice (8): Undefined index: flavors in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 56]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 56
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 08:22:41 Notice: Notice (8): Undefined variable: thi in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 87]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 87
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 08:22:41 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 87]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 87
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 08:24:52 Notice: Notice (8): Undefined variable: thi in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 92]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 92
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 08:24:52 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 92]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 92
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 08:48:40 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 99
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 139
+Cake\Controller\Component\FlashComponent::success() - APP/Controller\ProductsController.php, line 83
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 83
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:01:23 Notice: Notice (8): Undefined variable: url in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php, line 520]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::redirect() - CORE\src\Controller\Controller.php, line 520
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 85
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:01:23 Notice: Notice (8): Undefined variable: url in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Controller\Controller.php, line 529]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Controller\Controller::redirect() - CORE\src\Controller\Controller.php, line 529
+App\Controller\ProductsController::add() - APP/Controller\ProductsController.php, line 85
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:06:08 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:06:08 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:06:54 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:06:54 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:07:19 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:07:19 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:07:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:07:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:07:46 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:07:46 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:08:07 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:08:07 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:08:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:08:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:09:56 Notice: Notice (8): Undefined variable: product in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 1]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 1
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:09:56 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:09:56 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:10:05 Notice: Notice (8): Undefined variable: product in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 1]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 1
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:10:05 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:10:05 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:10:15 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:10:15 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:11:09 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:11:09 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:11:21 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:11:21 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:14:06 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 09:14:06 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\index.ctp, line 36
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 18:39:39 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\view.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\view.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 18:39:39 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cakeaddict\src\Template\Products\view.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+include - APP/Template\Products\view.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:09:32 Notice: Notice (8): Undefined variable: image in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 113]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 113
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:09:32 Notice: Notice (8): Undefined variable: image in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 113]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 113
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:09:32 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 99
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 139
+Cake\Controller\Component\FlashComponent::success() - APP/Controller\ProductsController.php, line 115
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 115
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:10:27 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 113]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 113
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:10:27 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 122
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:10:27 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 122
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:10:27 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 99
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 139
+Cake\Controller\Component\FlashComponent::success() - APP/Controller\ProductsController.php, line 124
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 124
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:11:16 Notice: Notice (8): Undefined variable: image in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 121]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 121
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:11:16 Notice: Notice (8): Undefined variable: image in [C:\xampp\htdocs\cakeaddict\src\Controller\ProductsController.php, line 121]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 121
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:11:16 Notice: Notice (8): Undefined variable: _SESSION in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\Network\Session.php, line 440]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\Network\Session::write() - CORE\src\Network\Session.php, line 440
+Cake\Controller\Component\FlashComponent::set() - CORE\src\Controller\Component\FlashComponent.php, line 99
+Cake\Controller\Component\FlashComponent::__call() - CORE\src\Controller\Component\FlashComponent.php, line 139
+Cake\Controller\Component\FlashComponent::success() - APP/Controller\ProductsController.php, line 123
+App\Controller\ProductsController::edit() - APP/Controller\ProductsController.php, line 123
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:18:47 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 40]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::build() - CORE\src\View\Helper\UrlHelper.php, line 40
+Cake\View\Helper\PaginatorHelper::generateUrl() - CORE\src\View\Helper\PaginatorHelper.php, line 483
+Cake\View\Helper\PaginatorHelper::sort() - CORE\src\View\Helper\PaginatorHelper.php, line 440
+include - APP/Template\Products\index.ctp, line 7
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:28:53 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:16 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-05-01 21:29:17 Notice: Notice (8): Uninitialized string offset: 0 in [C:\xampp\htdocs\cakeaddict\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php, line 66]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 139
+Cake\View\Helper\UrlHelper::assetUrl() - CORE\src\View\Helper\UrlHelper.php, line 66
+Cake\View\Helper\HtmlHelper::image() - CORE\src\View\Helper\HtmlHelper.php, line 811
+include - APP/Template\Products\index.ctp, line 30
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 828
+Cake\View\View::_render() - CORE\src\View\View.php, line 788
+Cake\View\View::render() - CORE\src\View\View.php, line 465
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+

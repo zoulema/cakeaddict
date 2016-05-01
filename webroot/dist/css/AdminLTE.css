@@ -2166,7 +2166,7 @@ a:focus {
  * Component: Button
  * -----------------
  */
-.btn {
+.actions a, .side-nav li a, .btn {
   border-radius: 3px;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -2219,7 +2219,7 @@ a:focus {
 .btn-default.hover {
   background-color: #e7e7e7;
 }
-.btn-primary {
+.actions a, .side-nav li a, .btn-primary {
   background-color: #cc3333;
   border-color: #ffffff;
   color:white!important;
